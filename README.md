@@ -1,5 +1,4 @@
-[rot-ja.html](https://github.com/user-attachments/files/27187178/rot-ja.html)
-<head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>桑澤 一郎 | 国際ロータリー第2地域</title>
