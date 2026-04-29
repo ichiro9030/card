@@ -1,6 +1,4 @@
 [rot-ja.html](https://github.com/user-attachments/files/27187178/rot-ja.html)
-# card<!DOCTYPE html>
-<html lang="ja">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
