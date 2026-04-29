@@ -46,7 +46,7 @@
     <div class="info-row"><span class="info-label">住所</span><span class="info-value">〒390-0811<br>長野県松本市中央1-23-1<br>松本商工会館<br>国際ロータリー第2600地区事務所</span></div>
     <div class="info-row"><span class="info-label">電話</span><span class="info-value"><a href="tel:0263380800">0263-38-0800</a></span></div>
     <div class="info-row"><span class="info-label">携帯</span><span class="info-value"><a href="tel:09060002600">090-6000-2600</a></span></div>
-    <div class="info-row"><span class="info-label">メール</span><span class="info-value"><a href="mailto:info@rid2600.org">info@rid2600.org</a></span></div>
+    <div class="info-row"><span class="info-label">メール</span><span class="info-value"><a href="mailto:i.kuwazawa@gmail.com">info@rid2600.org</a></span></div>
     <div class="info-row"><span class="info-label">ウェブ</span><span class="info-value"><a href="https://www.japanrotary.club" target="_blank">www.japanrotary.club</a></span></div>
   </div>
   <div class="info-block">
