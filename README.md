@@ -58,7 +58,7 @@
   <div class="footer">タップで電話・メッセージを直接開けます</div>
 </div>
 <script>
-function downloadVCard(){const v=['BEGIN:VCARD','VERSION:3.0','FN:桑澤 一郎','N:桑澤;一郎;;;','NICKNAME:Ichiro Kuwazawa','ORG:国際ロータリー第2地域','TITLE:公共イメージコーディネーター・行動計画推進リーダー','ADR;TYPE=WORK:;;長野県松本市中央1-23-1 松本商工会館 国際ロータリー第2600地区事務所;;;390-0811;Japan','TEL;TYPE=WORK,VOICE:0263-38-0800','TEL;TYPE=CELL:090-6000-2600','EMAIL:info@rid2600.org','URL:https://www.japanrotary.club','X-SOCIALPROFILE;type=line:https://line.me/ti/p/~kuwazawa','X-SOCIALPROFILE;type=whatsapp:https://wa.me/819060002600','X-SOCIALPROFILE;type=facebook:https://facebook.com/i.kuwa','END:VCARD'].join('\r\n');const b=new Blob([v],{type:'text/vcard;charset=utf-8'});const u=URL.createObjectURL(b);const a=document.createElement('a');a.href=u;a.download='kuwazawa_rotary.vcf';a.click();URL.revokeObjectURL(u)}
+function downloadVCard(){const v=['BEGIN:VCARD','VERSION:3.0','FN:桑澤 一郎','N:桑澤;一郎;;;','NICKNAME:Ichiro Kuwazawa','ORG:国際ロータリー第2地域','TITLE:公共イメージコーディネーター・行動計画推進リーダー','ADR;TYPE=WORK:;;長野県松本市中央1-23-1 松本商工会館 国際ロータリー第2600地区事務所;;;390-0811;Japan','TEL;TYPE=WORK,VOICE:0263-38-0800','TEL;TYPE=CELL:090-6000-2600','EMAIL:i.kuwazawa@gmail.com','URL:https://www.japanrotary.club','X-SOCIALPROFILE;type=line:https://line.me/ti/p/~kuwazawa','X-SOCIALPROFILE;type=whatsapp:https://wa.me/819060002600','X-SOCIALPROFILE;type=facebook:https://facebook.com/i.kuwa','END:VCARD'].join('\r\n');const b=new Blob([v],{type:'text/vcard;charset=utf-8'});const u=URL.createObjectURL(b);const a=document.createElement('a');a.href=u;a.download='kuwazawa_rotary.vcf';a.click();URL.revokeObjectURL(u)}
 </script>
 </body>
 </html>
