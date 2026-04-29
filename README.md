@@ -48,7 +48,7 @@
     <div class="info-row"><span class="info-label">ウェブ</span><span class="info-value"><a href="https://www.japanrotary.club" target="_blank">www.japanrotary.club</a></span></div>
   </div>
   <div class="info-block">
-    <div class="info-row"><span class="info-label">LINE</span><span class="info-value"><a href="https://line.me/ti/p/~kuwazawa">kuwazawa</a></span></div>
+    <div class="info-row"><span class="info-label">LINE ID</span><span class="info-value"><a href="https://line.me/ti/p/~kuwazawa">kuwazawa</a></span></div>
     <div class="info-row"><span class="info-label">WhatsApp</span><span class="info-value"><a href="https://wa.me/819060002600">+81 90-6000-2600</a></span></div>
     <div class="info-row"><span class="info-label">Messenger</span><span class="info-value"><a href="https://m.me/i.kuwa">facebook.com/i.kuwa</a></span></div>
   </div>
