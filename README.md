@@ -30,7 +30,6 @@
   .save-btn::before{content:'＋';margin-right:8px;color:var(--gold)}
   .footer{text-align:center;margin-top:2rem;font-size:11px;color:var(--ink-light);letter-spacing:0.1em}
 </style>
-</head>
 <body>
 <div class="wrapper">
   <div class="rotary-band">ROTARY INTERNATIONAL REGION 2</div>
