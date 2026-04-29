@@ -38,7 +38,7 @@
     <div class="name-ja">桑澤 一郎</div>
     <div class="name-en">Ichiro Kuwazawa</div>
     <div class="org">国際ロータリー第2地域</div>
-    <div class="title">公共イメージコーディネーター<br>行動計画推進リーダー<br>茅野ロータリークラブ</div>
+    <div class="title">公共イメージコーディネーター<br>行動計画推進リーダー<br>(茅野ロータリークラブ)</div>
   </div>
   <div class="info-block">
     <div class="info-row"><span class="info-label">住所</span><span class="info-value">〒390-0811<br>長野県松本市中央1-23-1<br>松本商工会館<br>国際ロータリー第2600地区事務所</span></div>
